@@ -1,0 +1,703 @@
+2022-02-10 09:50:11,973 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 09:50:12,523 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 09:50:12,866 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 09:50:13,987 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 09:50:14,001 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 09:54:09,358 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 09:54:09,680 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 09:54:09,973 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 09:54:12,841 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 09:54:12,860 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 09:55:20,338 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 09:55:20,688 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 09:55:21,353 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 09:55:23,960 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 09:55:23,990 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 18:37:03,928 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 18:37:06,282 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 18:37:17,643 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 18:37:20,305 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 18:37:20,327 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 19:11:38,518 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 19:11:38,824 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 19:11:39,497 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 19:11:43,658 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 19:11:44,173 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 23:20:52,019 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 23:20:57,442 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 23:20:58,181 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 23:21:01,344 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 23:21:01,497 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-10 23:23:48,859 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-10 23:23:49,194 - NetBankingAutomationTest -INFO - Entered username
+2022-02-10 23:23:49,820 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-10 23:23:51,259 - NetBankingAutomationTest -INFO - Login done
+2022-02-10 23:23:51,275 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 19:50:27,203 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 19:50:28,351 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 19:50:29,279 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 19:50:30,832 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 19:50:31,132 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 20:14:53,026 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 20:14:53,280 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 20:14:54,741 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 20:15:05,100 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 20:15:06,812 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 20:42:23,309 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 20:42:24,268 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 20:42:24,648 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 20:42:26,288 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 20:42:26,304 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 20:45:53,563 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 20:45:53,928 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 20:45:56,129 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 20:45:57,484 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 20:45:57,497 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 21:20:55,728 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 21:20:55,979 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 21:21:02,826 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 21:21:04,011 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 21:21:04,286 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-11 22:43:30,707 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-11 22:43:30,914 - NetBankingAutomationTest -INFO - Entered username
+2022-02-11 22:43:31,342 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-11 22:43:33,663 - NetBankingAutomationTest -INFO - Login done
+2022-02-11 22:43:33,681 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-12 08:35:15,917 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 08:35:17,910 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 08:35:18,951 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 08:35:20,299 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 08:35:20,322 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-12 08:37:15,051 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 08:37:15,300 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 08:37:16,193 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 08:37:17,463 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 08:37:18,040 - NetBankingAutomationTest -INFO - Title Test passed 
+2022-02-12 09:12:45,192 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 09:12:46,262 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 09:12:47,256 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 09:12:49,720 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 09:12:50,296 - NetBankingAutomationTest -INFO - Login Test Failed 
+2022-02-12 09:22:22,183 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 09:22:22,713 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 09:22:23,752 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 09:22:25,629 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 09:25:19,900 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 09:25:20,135 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 09:25:20,592 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 09:25:25,364 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 09:29:25,048 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 09:29:26,116 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 09:29:26,312 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 09:29:27,472 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 09:33:11,676 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 09:33:11,930 - NetBankingAutomationTest -INFO - Entered username
+2022-02-12 09:33:12,112 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-12 09:33:13,273 - NetBankingAutomationTest -INFO - Login done
+2022-02-12 22:16:55,491 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-12 22:17:05,363 - NetBankingAutomationTest -INFO - Username provided
+2022-02-12 22:17:05,468 - NetBankingAutomationTest -INFO - Password provided
+2022-02-12 22:17:07,383 - NetBankingAutomationTest -INFO - Login passed
+2022-02-12 22:17:08,926 - NetBankingAutomationTest -INFO - Username provided
+2022-02-12 22:17:09,066 - NetBankingAutomationTest -INFO - Password provided
+2022-02-12 22:17:11,647 - NetBankingAutomationTest -INFO - Username provided
+2022-02-12 22:17:11,761 - NetBankingAutomationTest -INFO - Password provided
+2022-02-12 22:17:13,226 - NetBankingAutomationTest -INFO - Username provided
+2022-02-12 22:17:14,095 - NetBankingAutomationTest -INFO - Password provided
+2022-02-12 22:17:15,343 - NetBankingAutomationTest -INFO - Username provided
+2022-02-12 22:17:15,744 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:45:59,069 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 10:46:07,037 - NetBankingAutomationTest -INFO - Entered username
+2022-02-13 10:46:07,129 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-13 10:46:08,208 - NetBankingAutomationTest -INFO - Login done
+2022-02-13 10:46:19,395 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 10:46:31,962 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:46:32,066 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:46:35,008 - NetBankingAutomationTest -INFO - Login passed
+2022-02-13 10:46:37,934 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:46:38,046 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:46:49,767 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:46:49,848 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:46:57,126 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:47:02,972 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:47:09,303 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:47:09,418 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:47:17,231 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 10:54:22,940 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 10:54:23,835 - NetBankingAutomationTest -INFO - Entered username
+2022-02-13 10:54:24,147 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-13 10:54:25,255 - NetBankingAutomationTest -INFO - Login done
+2022-02-13 10:54:35,191 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 10:55:13,839 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:55:14,053 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:55:16,620 - NetBankingAutomationTest -INFO - Login passed
+2022-02-13 10:55:20,932 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:55:21,116 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:55:23,558 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:55:23,715 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:55:25,900 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:55:26,075 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:55:28,688 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 10:55:28,864 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 10:55:38,434 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 11:01:46,421 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 11:02:04,990 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 11:02:20,720 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 16:35:47,983 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 16:35:49,306 - NetBankingAutomationTest -INFO - Entered username
+2022-02-13 16:35:49,576 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-13 16:35:50,946 - NetBankingAutomationTest -INFO - Login done
+2022-02-13 16:36:00,228 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 16:36:06,889 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 16:36:07,000 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 16:36:08,863 - NetBankingAutomationTest -INFO - Login passed
+2022-02-13 16:36:10,463 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 16:36:10,556 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 16:36:11,923 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 16:36:11,999 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 16:36:14,155 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 16:36:15,374 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 16:36:17,532 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 16:36:17,619 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 16:36:26,759 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:12:56,161 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:17:07,430 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:17:23,434 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-13 17:17:25,077 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-13 17:17:25,366 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-13 17:17:25,484 - NetBankingAutomationTest -INFO - Address entered
+2022-02-13 17:17:25,585 - NetBankingAutomationTest -INFO - city entered
+2022-02-13 17:17:25,682 - NetBankingAutomationTest -INFO - State entered
+2022-02-13 17:17:25,802 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-13 17:17:25,919 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-13 17:17:26,061 - NetBankingAutomationTest -INFO - Email entered
+2022-02-13 17:17:26,145 - NetBankingAutomationTest -INFO - Password entered
+2022-02-13 17:17:26,146 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-13 17:17:26,254 - NetBankingAutomationTest -INFO - Submitted
+2022-02-13 17:20:02,927 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:20:13,739 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-13 17:20:15,880 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-13 17:20:16,087 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-13 17:20:16,222 - NetBankingAutomationTest -INFO - Address entered
+2022-02-13 17:20:16,320 - NetBankingAutomationTest -INFO - city entered
+2022-02-13 17:20:16,407 - NetBankingAutomationTest -INFO - State entered
+2022-02-13 17:20:16,496 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-13 17:20:16,596 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-13 17:20:16,712 - NetBankingAutomationTest -INFO - Email entered
+2022-02-13 17:20:16,808 - NetBankingAutomationTest -INFO - Password entered
+2022-02-13 17:20:16,809 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-13 17:20:17,239 - NetBankingAutomationTest -INFO - Submitted
+2022-02-13 17:20:49,063 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:21:02,754 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-13 17:21:03,574 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-13 17:21:03,917 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-13 17:21:04,019 - NetBankingAutomationTest -INFO - Address entered
+2022-02-13 17:21:04,105 - NetBankingAutomationTest -INFO - city entered
+2022-02-13 17:21:04,195 - NetBankingAutomationTest -INFO - State entered
+2022-02-13 17:21:04,288 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-13 17:21:04,410 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-13 17:21:04,529 - NetBankingAutomationTest -INFO - Email entered
+2022-02-13 17:21:04,624 - NetBankingAutomationTest -INFO - Password entered
+2022-02-13 17:21:04,626 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-13 17:21:05,595 - NetBankingAutomationTest -INFO - Submitted
+2022-02-13 17:28:18,454 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:28:18,802 - NetBankingAutomationTest -INFO - Entered username
+2022-02-13 17:28:19,012 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-13 17:28:22,875 - NetBankingAutomationTest -INFO - Login done
+2022-02-13 17:28:39,604 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:28:48,925 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:28:49,049 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:28:52,627 - NetBankingAutomationTest -INFO - Login passed
+2022-02-13 17:28:53,527 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:28:53,606 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:28:59,144 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:28:59,224 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:29:01,946 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:29:02,070 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:29:07,743 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:29:07,829 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:29:37,502 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:29:46,401 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-13 17:29:47,067 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-13 17:29:47,343 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-13 17:29:47,479 - NetBankingAutomationTest -INFO - Address entered
+2022-02-13 17:29:47,568 - NetBankingAutomationTest -INFO - city entered
+2022-02-13 17:29:47,656 - NetBankingAutomationTest -INFO - State entered
+2022-02-13 17:29:47,750 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-13 17:29:47,849 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-13 17:29:47,972 - NetBankingAutomationTest -INFO - Email entered
+2022-02-13 17:29:48,068 - NetBankingAutomationTest -INFO - Password entered
+2022-02-13 17:29:48,068 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-13 17:29:48,308 - NetBankingAutomationTest -INFO - Submitted
+2022-02-13 17:30:44,098 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:30:44,816 - NetBankingAutomationTest -INFO - Entered username
+2022-02-13 17:30:45,005 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-13 17:30:46,024 - NetBankingAutomationTest -INFO - Login done
+2022-02-13 17:30:54,962 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:30:57,119 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:30:57,226 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:30:59,026 - NetBankingAutomationTest -INFO - Login passed
+2022-02-13 17:31:06,077 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:31:06,224 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:31:12,292 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:31:12,980 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:31:14,583 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:31:14,902 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:31:16,215 - NetBankingAutomationTest -INFO - Username provided
+2022-02-13 17:31:16,601 - NetBankingAutomationTest -INFO - Password provided
+2022-02-13 17:31:29,987 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-13 17:31:47,403 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-13 17:31:47,521 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-13 17:31:48,936 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-13 17:31:49,038 - NetBankingAutomationTest -INFO - Address entered
+2022-02-13 17:31:49,122 - NetBankingAutomationTest -INFO - city entered
+2022-02-13 17:31:49,205 - NetBankingAutomationTest -INFO - State entered
+2022-02-13 17:31:49,309 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-13 17:31:49,434 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-13 17:31:49,558 - NetBankingAutomationTest -INFO - Email entered
+2022-02-13 17:31:49,654 - NetBankingAutomationTest -INFO - Password entered
+2022-02-13 17:31:49,655 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-13 17:31:50,728 - NetBankingAutomationTest -INFO - Submitted
+2022-02-13 17:31:56,169 - NetBankingAutomationTest -INFO - Added new customer successfully
+2022-02-14 09:35:43,610 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 09:35:44,757 - NetBankingAutomationTest -INFO - Entered username
+2022-02-14 09:35:44,886 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-14 09:35:46,634 - NetBankingAutomationTest -INFO - Login done
+2022-02-14 09:35:56,017 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 09:36:05,790 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:36:05,960 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:36:07,626 - NetBankingAutomationTest -INFO - Login passed
+2022-02-14 09:36:08,414 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:36:08,504 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:36:18,269 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:36:18,360 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:36:24,956 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:36:25,108 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:36:26,906 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:36:27,431 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:36:37,071 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 09:44:59,292 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 09:45:00,219 - NetBankingAutomationTest -INFO - Entered username
+2022-02-14 09:45:00,404 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-14 09:45:05,539 - NetBankingAutomationTest -INFO - Login done
+2022-02-14 09:45:05,610 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-14 09:45:18,291 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 09:45:26,663 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:45:26,825 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:45:29,925 - NetBankingAutomationTest -INFO - Login passed
+2022-02-14 09:45:31,528 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:45:31,714 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:45:49,299 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:45:49,413 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:45:52,509 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:45:52,708 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:45:56,610 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 09:45:56,757 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 09:46:16,317 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 19:49:41,800 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 19:49:43,227 - NetBankingAutomationTest -INFO - Entered username
+2022-02-14 19:49:43,451 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-14 19:49:44,568 - NetBankingAutomationTest -INFO - Login done
+2022-02-14 19:49:44,623 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-14 19:49:53,384 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 19:49:58,537 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 19:49:58,691 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 19:50:01,016 - NetBankingAutomationTest -INFO - Login passed
+2022-02-14 19:50:02,370 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 19:50:02,508 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 19:50:06,375 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 19:50:06,478 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 19:50:09,202 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 19:50:09,301 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 19:50:12,026 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 19:50:12,132 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 19:50:23,469 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 19:50:44,522 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-14 19:50:44,918 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-14 19:50:45,239 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-14 19:50:45,377 - NetBankingAutomationTest -INFO - Address entered
+2022-02-14 19:50:45,505 - NetBankingAutomationTest -INFO - city entered
+2022-02-14 19:50:45,623 - NetBankingAutomationTest -INFO - State entered
+2022-02-14 19:50:45,737 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-14 19:50:45,849 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-14 19:50:45,975 - NetBankingAutomationTest -INFO - Email entered
+2022-02-14 19:50:46,097 - NetBankingAutomationTest -INFO - Password entered
+2022-02-14 19:50:46,098 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-14 19:50:47,050 - NetBankingAutomationTest -INFO - Submitted
+2022-02-14 19:50:50,071 - NetBankingAutomationTest -INFO - Added new customer successfully
+2022-02-14 21:14:13,910 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:14:16,480 - NetBankingAutomationTest -INFO - Entered username
+2022-02-14 21:14:16,631 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-14 21:14:18,208 - NetBankingAutomationTest -INFO - Login done
+2022-02-14 21:14:18,276 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-14 21:14:20,851 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-02-14 21:14:28,277 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:14:36,215 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:14:36,441 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:14:40,768 - NetBankingAutomationTest -INFO - Login passed
+2022-02-14 21:14:44,078 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:14:44,167 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:14:51,116 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:14:51,206 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:14:57,453 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:14:57,543 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:15:00,867 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:15:00,959 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:15:12,753 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:15:30,354 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-14 21:15:31,747 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-14 21:15:32,087 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-14 21:15:32,227 - NetBankingAutomationTest -INFO - Address entered
+2022-02-14 21:15:32,354 - NetBankingAutomationTest -INFO - city entered
+2022-02-14 21:15:32,451 - NetBankingAutomationTest -INFO - State entered
+2022-02-14 21:15:32,555 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-14 21:15:32,681 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-14 21:15:32,830 - NetBankingAutomationTest -INFO - Email entered
+2022-02-14 21:15:32,951 - NetBankingAutomationTest -INFO - Password entered
+2022-02-14 21:15:32,951 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-14 21:15:33,318 - NetBankingAutomationTest -INFO - Submitted
+2022-02-14 21:19:44,629 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:19:45,018 - NetBankingAutomationTest -INFO - Entered username
+2022-02-14 21:19:45,212 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-14 21:19:47,579 - NetBankingAutomationTest -INFO - Login done
+2022-02-14 21:19:47,604 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-14 21:20:00,929 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:20:04,086 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:20:04,249 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:20:05,958 - NetBankingAutomationTest -INFO - Login passed
+2022-02-14 21:20:07,029 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:20:07,156 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:20:09,910 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:20:10,016 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:20:12,745 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:20:12,850 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:20:15,575 - NetBankingAutomationTest -INFO - Username provided
+2022-02-14 21:20:15,665 - NetBankingAutomationTest -INFO - Password provided
+2022-02-14 21:20:27,757 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-14 21:20:37,190 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-14 21:20:37,286 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-14 21:20:37,953 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-14 21:20:38,098 - NetBankingAutomationTest -INFO - Address entered
+2022-02-14 21:20:38,237 - NetBankingAutomationTest -INFO - city entered
+2022-02-14 21:20:38,366 - NetBankingAutomationTest -INFO - State entered
+2022-02-14 21:20:38,520 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-14 21:20:38,657 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-14 21:20:38,807 - NetBankingAutomationTest -INFO - Email entered
+2022-02-14 21:20:38,914 - NetBankingAutomationTest -INFO - Password entered
+2022-02-14 21:20:38,914 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-14 21:20:39,911 - NetBankingAutomationTest -INFO - Submitted
+2022-02-14 21:20:42,935 - NetBankingAutomationTest -INFO - Added new customer successfully
+2022-02-15 09:02:54,011 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:02:54,359 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:02:54,593 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:02:55,505 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:02:55,521 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:03:02,065 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:03:06,369 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:03:06,492 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:03:08,344 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:03:09,360 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:03:09,470 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:03:12,098 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:03:12,196 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:03:15,007 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:03:15,102 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:03:17,965 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:03:18,062 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:03:27,365 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:03:35,455 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-15 09:03:35,829 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-15 09:03:36,139 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-15 09:03:36,377 - NetBankingAutomationTest -INFO - Address entered
+2022-02-15 09:03:36,589 - NetBankingAutomationTest -INFO - city entered
+2022-02-15 09:03:36,739 - NetBankingAutomationTest -INFO - State entered
+2022-02-15 09:03:36,860 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-15 09:03:36,962 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-15 09:03:37,102 - NetBankingAutomationTest -INFO - Email entered
+2022-02-15 09:03:37,204 - NetBankingAutomationTest -INFO - Password entered
+2022-02-15 09:03:37,205 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-15 09:03:37,616 - NetBankingAutomationTest -INFO - Submitted
+2022-02-15 09:11:24,274 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:11:24,795 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:11:25,242 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:11:26,373 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:11:26,396 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:11:34,584 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:11:38,913 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:11:39,027 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:11:41,363 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:11:42,261 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:11:47,281 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:11:50,938 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:11:51,021 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:11:54,149 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:11:54,457 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:11:57,158 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:11:57,241 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:12:07,875 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:15:29,350 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:15:29,713 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:15:30,013 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:15:31,119 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:15:31,228 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:15:37,514 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:15:40,150 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:15:40,263 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:15:42,096 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:15:43,110 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:15:43,202 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:15:46,016 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:15:46,097 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:15:48,839 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:15:48,924 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:15:51,685 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:15:51,884 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:16:12,202 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:16:20,090 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-15 09:16:20,448 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-15 09:16:20,710 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-15 09:16:20,826 - NetBankingAutomationTest -INFO - Address entered
+2022-02-15 09:16:20,917 - NetBankingAutomationTest -INFO - city entered
+2022-02-15 09:16:21,001 - NetBankingAutomationTest -INFO - State entered
+2022-02-15 09:16:21,089 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-15 09:16:21,182 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-15 09:16:21,300 - NetBankingAutomationTest -INFO - Email entered
+2022-02-15 09:16:21,394 - NetBankingAutomationTest -INFO - Password entered
+2022-02-15 09:16:21,394 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-15 09:16:21,592 - NetBankingAutomationTest -INFO - Submitted
+2022-02-15 09:18:27,418 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:18:27,645 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:18:27,975 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:18:29,123 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:18:29,148 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:18:35,868 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:18:38,540 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:18:38,686 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:18:43,983 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:18:48,471 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:18:48,562 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:18:54,143 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:18:54,224 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:19:00,347 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:19:00,431 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:19:05,789 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:19:05,871 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:19:19,606 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:19:27,548 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-15 09:19:27,646 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-15 09:19:29,615 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-15 09:19:29,732 - NetBankingAutomationTest -INFO - Address entered
+2022-02-15 09:19:29,854 - NetBankingAutomationTest -INFO - city entered
+2022-02-15 09:19:29,942 - NetBankingAutomationTest -INFO - State entered
+2022-02-15 09:19:30,035 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-15 09:19:30,138 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-15 09:19:30,255 - NetBankingAutomationTest -INFO - Email entered
+2022-02-15 09:19:30,347 - NetBankingAutomationTest -INFO - Password entered
+2022-02-15 09:19:30,347 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-15 09:19:30,711 - NetBankingAutomationTest -INFO - Submitted
+2022-02-15 09:21:16,345 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:21:16,694 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:21:16,865 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:21:18,084 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:21:18,147 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:21:25,042 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:21:27,234 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:21:27,340 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:21:28,789 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:21:29,913 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:21:30,042 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:21:32,854 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:21:32,960 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:21:35,602 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:21:35,681 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:21:38,319 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:21:38,406 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:21:51,057 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:22:14,595 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-15 09:22:16,266 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-15 09:22:16,531 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-15 09:22:16,639 - NetBankingAutomationTest -INFO - Address entered
+2022-02-15 09:22:16,729 - NetBankingAutomationTest -INFO - city entered
+2022-02-15 09:22:16,820 - NetBankingAutomationTest -INFO - State entered
+2022-02-15 09:22:16,926 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-15 09:22:17,020 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-15 09:22:17,136 - NetBankingAutomationTest -INFO - Email entered
+2022-02-15 09:22:17,231 - NetBankingAutomationTest -INFO - Password entered
+2022-02-15 09:22:17,231 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-15 09:22:17,557 - NetBankingAutomationTest -INFO - Submitted
+2022-02-15 09:22:20,309 - NetBankingAutomationTest -INFO - Customer already exists:Please enter new customer details
+2022-02-15 09:33:58,317 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:33:58,704 - NetBankingAutomationTest -INFO - Entered username
+2022-02-15 09:33:59,040 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-15 09:33:59,864 - NetBankingAutomationTest -INFO - Login done
+2022-02-15 09:33:59,879 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-15 09:34:07,148 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:34:09,121 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:34:09,237 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:34:10,908 - NetBankingAutomationTest -INFO - Login passed
+2022-02-15 09:34:11,984 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:34:12,173 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:34:14,771 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:34:14,864 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:34:17,474 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:34:17,557 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:34:20,224 - NetBankingAutomationTest -INFO - Username provided
+2022-02-15 09:34:20,305 - NetBankingAutomationTest -INFO - Password provided
+2022-02-15 09:34:30,867 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-15 09:34:38,384 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-15 09:34:38,787 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-15 09:34:39,078 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-15 09:34:39,178 - NetBankingAutomationTest -INFO - Address entered
+2022-02-15 09:34:39,270 - NetBankingAutomationTest -INFO - city entered
+2022-02-15 09:34:39,352 - NetBankingAutomationTest -INFO - State entered
+2022-02-15 09:34:39,450 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-15 09:34:39,546 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-15 09:34:39,666 - NetBankingAutomationTest -INFO - Email entered
+2022-02-15 09:34:39,764 - NetBankingAutomationTest -INFO - Password entered
+2022-02-15 09:34:39,765 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-15 09:34:40,143 - NetBankingAutomationTest -INFO - Submitted
+2022-02-15 09:34:42,319 - NetBankingAutomationTest -INFO - Customer already exists:Please enter new customer details
+2022-02-16 09:33:44,212 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:33:52,467 - NetBankingAutomationTest -INFO - Entered username
+2022-02-16 09:33:52,782 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-16 09:33:54,959 - NetBankingAutomationTest -INFO - Login done
+2022-02-16 09:33:55,719 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-16 09:34:12,361 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:34:38,270 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:34:39,202 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:34:44,068 - NetBankingAutomationTest -INFO - Login passed
+2022-02-16 09:34:46,970 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:34:47,321 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:34:50,968 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:34:51,082 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:34:54,248 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:34:54,355 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:35:04,301 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:35:04,412 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:35:21,891 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:35:41,531 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-16 09:35:42,524 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-16 09:35:43,139 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-16 09:35:43,292 - NetBankingAutomationTest -INFO - Address entered
+2022-02-16 09:35:43,426 - NetBankingAutomationTest -INFO - city entered
+2022-02-16 09:35:43,545 - NetBankingAutomationTest -INFO - State entered
+2022-02-16 09:35:43,667 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-16 09:35:43,800 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-16 09:35:43,979 - NetBankingAutomationTest -INFO - Email entered
+2022-02-16 09:35:44,095 - NetBankingAutomationTest -INFO - Password entered
+2022-02-16 09:35:44,095 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-16 09:35:44,516 - NetBankingAutomationTest -INFO - Submitted
+2022-02-16 09:35:46,712 - NetBankingAutomationTest -INFO - Customer already exists:Please enter new customer details
+2022-02-16 09:39:04,489 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:39:05,092 - NetBankingAutomationTest -INFO - Entered username
+2022-02-16 09:39:05,617 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-16 09:39:07,553 - NetBankingAutomationTest -INFO - Login done
+2022-02-16 09:39:07,586 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-16 09:39:17,972 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:39:21,398 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:39:21,584 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:39:29,034 - NetBankingAutomationTest -INFO - Login passed
+2022-02-16 09:39:32,563 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:39:32,755 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:39:37,090 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:39:37,221 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:39:45,352 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:39:45,478 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:39:48,525 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 09:39:48,665 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 09:40:01,642 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 09:40:41,500 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-16 09:40:41,596 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-16 09:40:44,029 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-16 09:40:44,161 - NetBankingAutomationTest -INFO - Address entered
+2022-02-16 09:40:44,274 - NetBankingAutomationTest -INFO - city entered
+2022-02-16 09:40:44,350 - NetBankingAutomationTest -INFO - State entered
+2022-02-16 09:40:44,439 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-16 09:40:44,534 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-16 09:40:44,650 - NetBankingAutomationTest -INFO - Email entered
+2022-02-16 09:40:44,741 - NetBankingAutomationTest -INFO - Password entered
+2022-02-16 09:40:44,742 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-16 09:40:45,135 - NetBankingAutomationTest -INFO - Submitted
+2022-02-16 09:40:47,250 - NetBankingAutomationTest -INFO - Customer already exists:Please enter new customer details
+2022-02-16 16:18:01,431 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 16:18:05,777 - NetBankingAutomationTest -INFO - Entered username
+2022-02-16 16:18:06,012 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-16 16:18:09,501 - NetBankingAutomationTest -INFO - Login done
+2022-02-16 16:18:10,116 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-16 16:19:07,970 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 16:19:16,105 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 16:19:16,232 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 16:19:18,436 - NetBankingAutomationTest -INFO - Login passed
+2022-02-16 16:19:19,987 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 16:19:20,087 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 16:19:23,051 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 16:19:23,133 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 16:19:25,807 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 16:19:25,907 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 16:19:28,747 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 16:19:28,880 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 16:19:41,377 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:23:34,934 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:23:38,021 - NetBankingAutomationTest -INFO - Entered username
+2022-02-16 19:23:38,137 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-16 19:23:39,793 - NetBankingAutomationTest -INFO - Login done
+2022-02-16 19:23:41,438 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-16 19:23:52,823 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:24:07,448 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:24:07,597 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:24:12,037 - NetBankingAutomationTest -INFO - Login passed
+2022-02-16 19:24:13,191 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:24:13,272 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:24:19,002 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:24:19,098 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:24:23,221 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:24:23,327 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:24:27,362 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:24:27,483 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:24:43,390 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:24:52,067 - NetBankingAutomationTest -INFO - Customer Name entered
+2022-02-16 19:24:52,146 - NetBankingAutomationTest -INFO - Gender entered
+2022-02-16 19:24:52,355 - NetBankingAutomationTest -INFO - DOB entered
+2022-02-16 19:24:52,486 - NetBankingAutomationTest -INFO - Address entered
+2022-02-16 19:24:52,573 - NetBankingAutomationTest -INFO - city entered
+2022-02-16 19:24:52,876 - NetBankingAutomationTest -INFO - State entered
+2022-02-16 19:24:52,985 - NetBankingAutomationTest -INFO - Pin entered
+2022-02-16 19:24:53,103 - NetBankingAutomationTest -INFO - Phone number entered
+2022-02-16 19:24:53,230 - NetBankingAutomationTest -INFO - Email entered
+2022-02-16 19:24:53,321 - NetBankingAutomationTest -INFO - Password entered
+2022-02-16 19:24:53,322 - NetBankingAutomationTest -INFO - All the details entered
+2022-02-16 19:24:53,715 - NetBankingAutomationTest -INFO - Submitted
+2022-02-16 19:24:56,146 - NetBankingAutomationTest -INFO - Customer already exists:Please enter new customer details
+2022-02-16 19:50:54,211 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:50:54,611 - NetBankingAutomationTest -INFO - Entered username
+2022-02-16 19:50:54,813 - NetBankingAutomationTest -INFO - Entered Passcode
+2022-02-16 19:50:56,866 - NetBankingAutomationTest -INFO - Login done
+2022-02-16 19:50:56,892 - NetBankingAutomationTest -INFO - Login Test passed 
+2022-02-16 19:51:07,196 - NetBankingAutomationTest -INFO - URL is opened
+2022-02-16 19:51:09,978 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:51:10,123 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:51:13,549 - NetBankingAutomationTest -INFO - Login passed
+2022-02-16 19:51:15,221 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:51:15,380 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:51:18,742 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:51:18,833 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:51:21,624 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:51:21,709 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:51:24,862 - NetBankingAutomationTest -INFO - Username provided
+2022-02-16 19:51:24,971 - NetBankingAutomationTest -INFO - Password provided
+2022-02-16 19:51:39,059 - NetBankingAutomationTest -INFO - URL is opened
